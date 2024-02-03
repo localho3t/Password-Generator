@@ -1,6 +1,6 @@
-## Getting Started
+## Password Generator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple project to create a password with Java.
 
 ## Folder Structure
 
@@ -12,10 +12,10 @@ The workspace contains two folders by default, where:
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 ## Run Project
-
-> java -c bin/ App 50 3
-
-> java -c bin/ App length count
+```bash
+java -c bin/ App length count
+java -c bin/ App 50 3
+```
 
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
