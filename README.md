@@ -13,8 +13,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Run Project
 ```bash
-java -c bin/ App length count
-java -c bin/ App 50 3
+java -cp bin/ App length count
+java -cp bin/ App 50 3
 ```
 
 
