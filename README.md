@@ -11,6 +11,13 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
+## Run Project
+
+> java -c bin/ App 50 3
+
+> java -c bin/ App length count
+
+
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 ## Dependency Management
